@@ -1,0 +1,26 @@
+/* VERSION PC */
+html {
+    width: auto;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+@media screen and (min-width: 1440px) {
+
+}
+
+/* VERSION DESKTOP */
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+
+}
+
+/* VERSION TABLETTE */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+}
+
+/* VERSION MOBILE */
+@media screen and (max-width: 767px) {
+
+}
